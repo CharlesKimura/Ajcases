@@ -157,13 +157,4 @@ input{
     ul{
         text-align: center;
     }
-    
-    footer{
-        display: flex;
-        position: absolute;
-        bottom:0%;
-        width: 100%;
-        justify-content: center;
-        max-width: 1200px;
-    }
 }
