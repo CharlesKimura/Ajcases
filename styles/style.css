@@ -160,8 +160,8 @@ input{
     }
     
     article{
-    display: flex;
-    max-width: 1200px;
-    justify-content: center;
+        display: flex;
+        max-width: 1200px;
+        justify-content: center;
     }
 }
