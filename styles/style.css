@@ -121,11 +121,13 @@ input{
 
 .rodape{
     display: flex;
-    position: absolute;
-    bottom:0%;
+    border-top: 1px solid white;
+    bottom: 0;
+    left: 0;
+    height: 100px;
+    position: fixed;
     width: 100%;
     justify-content: center;
-    max-width: 1200px;
 }
 
 @media screen and (max-width: 760px){
@@ -165,7 +167,7 @@ input{
     }
 
     .rodape{
-        position: absolute;
+        position: fixed;
         display: flex;
         max-width: 100%;
         justify-content: center;
