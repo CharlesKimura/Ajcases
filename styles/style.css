@@ -162,5 +162,6 @@ input{
         display: flex;
         max-width: 100%;
         justify-content: center;
+        position: absolute;
     }
 }
