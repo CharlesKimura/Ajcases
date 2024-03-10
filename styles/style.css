@@ -129,6 +129,12 @@ input{
     max-width: 1200px;
 }
 
+article{
+    display: flex;
+    max-width: 1200px;
+    justify-content: center;
+}
+
 @media screen and (max-width: 760px){
     header{
         flex-direction: column;
@@ -157,5 +163,11 @@ input{
 
     ul{
         text-align: center;
+    }
+    
+    article{
+    display: flex;
+    max-width: 1200px;
+    justify-content: center;
     }
 }
