@@ -158,18 +158,12 @@ input{
         text-align: center;
     }
     
-    article{
-        display: flex;
-        max-width: 1200px;
-        justify-content: center;
-    }
-
-    .rodape{
+    footer{
         display: flex;
         position: absolute;
         bottom:0%;
         width: 100%;
         justify-content: center;
         max-width: 1200px;
-}
+    }
 }
