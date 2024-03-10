@@ -119,17 +119,6 @@ input{
     font-size: 10px;
 }
 
-.rodape{
-    display: flex;
-    border-top: 1px solid white;
-    bottom: 0;
-    left: 0;
-    height: 100px;
-    position: fixed;
-    width: 100%;
-    justify-content: center;
-}
-
 @media screen and (max-width: 760px){
     header{
         flex-direction: column;
