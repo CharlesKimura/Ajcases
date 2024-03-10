@@ -157,4 +157,10 @@ input{
     ul{
         text-align: center;
     }
+
+    article{
+        display: flex;
+        max-width: 100%;
+        justify-content: center;
+    }
 }
