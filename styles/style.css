@@ -160,8 +160,12 @@ input{
 
     article{
         display: flex;
+        justify-content: center;   
+    }
+
+    .rodape{
+        display: flex;
         max-width: 100%;
         justify-content: center;
-        position: absolute;
     }
 }
